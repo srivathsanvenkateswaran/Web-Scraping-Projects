@@ -1,0 +1,208 @@
+1. The Need to Invest$https://zerodha.com/varsity/chapter/the-need-to-invest/$Introduction to Stock Markets
+2. Regulators$https://zerodha.com/varsity/chapter/regulators/$Introduction to Stock Markets
+3. Financial Intermediaries$https://zerodha.com/varsity/chapter/financial-intermediaries/$Introduction to Stock Markets
+4. The IPO Markets – Part 1$https://zerodha.com/varsity/chapter/the-ipo-markets-part-1/$Introduction to Stock Markets
+5. The IPO Markets – Part 2$https://zerodha.com/varsity/chapter/the-ipo-markets-part-2/$Introduction to Stock Markets
+6. The Stock Markets$https://zerodha.com/varsity/chapter/the-stock-markets/$Introduction to Stock Markets
+7. The Stock Markets Index$https://zerodha.com/varsity/chapter/the-stock-markets-index/$Introduction to Stock Markets
+8. Commonly Used Jargons$https://zerodha.com/varsity/chapter/commonly-used-jargons/$Introduction to Stock Markets
+9. The Trading Terminal$https://zerodha.com/varsity/chapter/the-trading-terminal/$Introduction to Stock Markets
+10. Clearing and Settlement Process$https://zerodha.com/varsity/chapter/clearing-and-settlement-process/$Introduction to Stock Markets
+11. Five Corporate Actions and Its Impact on Stock Prices$https://zerodha.com/varsity/chapter/five-corporate-actions-and-its-impact-on-stock-prices/$Introduction to Stock Markets
+12. Key Events and Their Impact on Markets$https://zerodha.com/varsity/chapter/key-events-and-their-impact-on-markets/$Introduction to Stock Markets
+13. Getting started!$https://zerodha.com/varsity/chapter/getting-started/$Introduction to Stock Markets
+14. Supplementary note – Rights, OFS, FPO$https://zerodha.com/varsity/chapter/supplementary-note-ipo-ofs-fpo/$Introduction to Stock Markets
+15. Supplementary note – The 20 market depth or level 3 data$https://zerodha.com/varsity/chapter/supplementary-note-the-20-market-depth/$Introduction to Stock Markets
+1. Background$https://zerodha.com/varsity/chapter/background/$Technical Analysis
+2. Introducing Technical Analysis$https://zerodha.com/varsity/chapter/introducing-technical-analysis/$Technical Analysis
+3. The Chart Types$https://zerodha.com/varsity/chapter/chart-types/$Technical Analysis
+4. Getting Started with Candlesticks$https://zerodha.com/varsity/chapter/getting-started-candlesticks/$Technical Analysis
+5. Single Candlestick patterns (Part 1)$https://zerodha.com/varsity/chapter/single-candlestick-patterns-part-1/$Technical Analysis
+6. Single Candlestick patterns (Part 2)$https://zerodha.com/varsity/chapter/single-candlestick-patterns-part-2/$Technical Analysis
+7. Single Candlestick patterns (Part 3)$https://zerodha.com/varsity/chapter/single-candlestick-patterns-part-3/$Technical Analysis
+8. Multiple candlestick patterns (Part 1)$https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-1/$Technical Analysis
+9. Multiple Candlestick Patterns (Part 2)$https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-2/$Technical Analysis
+10. Multiple Candlestick Patterns (Part 3)$https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-3/$Technical Analysis
+11. The Support and Resistance$https://zerodha.com/varsity/chapter/support-resistance/$Technical Analysis
+12. Volumes$https://zerodha.com/varsity/chapter/volumes/$Technical Analysis
+13. Moving Averages$https://zerodha.com/varsity/chapter/moving-averages/$Technical Analysis
+14. Indicators (Part 1)$https://zerodha.com/varsity/chapter/indicators-part-1/$Technical Analysis
+15. Indicators (Part 2)$https://zerodha.com/varsity/chapter/indicators-part-2/$Technical Analysis
+16. The Fibonacci Retracements$https://zerodha.com/varsity/chapter/fibonacci-retracements/$Technical Analysis
+17. The Dow Theory (Part 1)$https://zerodha.com/varsity/chapter/dow-theory-part-1/$Technical Analysis
+18. The Dow Theory (Part 2)$https://zerodha.com/varsity/chapter/dow-theory-part-2/$Technical Analysis
+19. The Finale – Helping you get started$https://zerodha.com/varsity/chapter/finale-helping-get-started/$Technical Analysis
+20. Supplementary Notes 1$https://zerodha.com/varsity/chapter/supplementary-notes-1/$Technical Analysis
+21. Interesting features on TradingView$https://zerodha.com/varsity/chapter/interesting-features-on-tradingview/$Technical Analysis
+22. The Central Pivot Range$https://zerodha.com/varsity/chapter/the-central-pivot-range/$Technical Analysis
+1. Introduction to Fundamental Analysis$https://zerodha.com/varsity/chapter/introduction-fundamental-analysis/$Fundamental Analysis
+2. Mindset of an Investor$https://zerodha.com/varsity/chapter/mindset-investor/$Fundamental Analysis
+3. How to Read the Annual Report of a Company$https://zerodha.com/varsity/chapter/read-annual-report-company/$Fundamental Analysis
+4. Understanding the P&L Statement (Part 1)$https://zerodha.com/varsity/chapter/understanding-pl-statement-part1/$Fundamental Analysis
+5. Understanding P&L Statement (Part 2)$https://zerodha.com/varsity/chapter/understanding-pl-statement-part2/$Fundamental Analysis
+6. Understanding Balance Sheet Statement (Part 1)$https://zerodha.com/varsity/chapter/understanding-balance-sheet-statement-part-1/$Fundamental Analysis
+7. Understanding the Balance Sheet Statement (Part 2)$https://zerodha.com/varsity/chapter/understanding-balance-sheet-statement-part-2/$Fundamental Analysis
+8. The Cash Flow statement$https://zerodha.com/varsity/chapter/cash-flow-statement/$Fundamental Analysis
+9. The Financial Ratio Analysis (Part 1)$https://zerodha.com/varsity/chapter/financial-ratio-analysis/$Fundamental Analysis
+10. The Financial Ratio Analysis (Part 2)$https://zerodha.com/varsity/chapter/financial-ratios-part-2/$Fundamental Analysis
+11. The Financial Ratio Analysis (Part 3)$https://zerodha.com/varsity/chapter/financial-ratios-part-3/$Fundamental Analysis
+12. The Investment Due Diligence$https://zerodha.com/varsity/chapter/investment-due-diligence/$Fundamental Analysis
+13. Equity Research (Part 1)$https://zerodha.com/varsity/chapter/equity-research-part-1/$Fundamental Analysis
+14. DCF Primer$https://zerodha.com/varsity/chapter/dcf-primer/$Fundamental Analysis
+15. Equity Research (Part 2)$https://zerodha.com/varsity/chapter/equity-research-part-2/$Fundamental Analysis
+16. The Finale$https://zerodha.com/varsity/chapter/finale/$Fundamental Analysis
+1. Background – Forwards Market$https://zerodha.com/varsity/chapter/background-forwards-market/$Futures Trading
+2. Introducing Futures Contract$https://zerodha.com/varsity/chapter/introducing-futures-contract/$Futures Trading
+3. The Futures Trade$https://zerodha.com/varsity/chapter/futures-trade/$Futures Trading
+4. Leverage & Payoff$https://zerodha.com/varsity/chapter/leverage-payoff/$Futures Trading
+5. Margin & M2M$https://zerodha.com/varsity/chapter/margin-m2m/$Futures Trading
+6. Margin Calculator (Part 1)$https://zerodha.com/varsity/chapter/margin-calculator-part-1/$Futures Trading
+7. Margin Calculator (Part 2)$https://zerodha.com/varsity/chapter/margin-calculator-part-2/$Futures Trading
+8. All about Shorting$https://zerodha.com/varsity/chapter/shorting/$Futures Trading
+9. The Nifty Futures$https://zerodha.com/varsity/chapter/nifty-futures/$Futures Trading
+10. The Futures Pricing$https://zerodha.com/varsity/chapter/futures-pricing/$Futures Trading
+11. Hedging with Futures$https://zerodha.com/varsity/chapter/hedging-futures/$Futures Trading
+12. Open Interest$https://zerodha.com/varsity/chapter/open-interest/$Futures Trading
+13. Quick Note on Physical Settlement$https://zerodha.com/varsity/chapter/quick-note-on-physical-settlement/$Futures Trading
+1. Call Option Basics$https://zerodha.com/varsity/chapter/call-option-basics/$Options Theory for Professional Trading
+2. Basic Option Jargons$https://zerodha.com/varsity/chapter/basic-option-jargons/$Options Theory for Professional Trading
+3. Buying a Call Option$https://zerodha.com/varsity/chapter/buying-a-call-option/$Options Theory for Professional Trading
+4. Selling/Writing a Call Option$https://zerodha.com/varsity/chapter/sellingwriting-a-call-option/$Options Theory for Professional Trading
+5. The Put Option Buying$https://zerodha.com/varsity/chapter/the-put-option-buying/$Options Theory for Professional Trading
+6. The Put Option selling$https://zerodha.com/varsity/chapter/the-put-option-selling/$Options Theory for Professional Trading
+7. Summarizing Call & Put Options$https://zerodha.com/varsity/chapter/summarizing-call-put-options/$Options Theory for Professional Trading
+8. Moneyness of an Option Contract$https://zerodha.com/varsity/chapter/moneyness-of-an-option-contract/$Options Theory for Professional Trading
+9. The Option Greeks (Delta) Part 1$https://zerodha.com/varsity/chapter/the-option-greeks-delta-part-1/$Options Theory for Professional Trading
+10. Delta (Part 2)$https://zerodha.com/varsity/chapter/delta-part-2/$Options Theory for Professional Trading
+11. Delta (Part 3)$https://zerodha.com/varsity/chapter/delta-part-3/$Options Theory for Professional Trading
+12. Gamma (Part 1)$https://zerodha.com/varsity/chapter/gamma-part-1/$Options Theory for Professional Trading
+13. Gamma (Part 2)$https://zerodha.com/varsity/chapter/gamma-part-2/$Options Theory for Professional Trading
+14. Theta$https://zerodha.com/varsity/chapter/theta/$Options Theory for Professional Trading
+15. Volatility Basics$https://zerodha.com/varsity/chapter/understanding-volatility-part-1/$Options Theory for Professional Trading
+16. Volatility Calculation (Historical)$https://zerodha.com/varsity/chapter/volatility-calculation-historical/$Options Theory for Professional Trading
+17. Volatility & Normal Distribution$https://zerodha.com/varsity/chapter/volatility-normal-distribution/$Options Theory for Professional Trading
+18. Volatility Applications$https://zerodha.com/varsity/chapter/volatility-applications/$Options Theory for Professional Trading
+19. Vega$https://zerodha.com/varsity/chapter/vega/$Options Theory for Professional Trading
+20. Greek Interactions$https://zerodha.com/varsity/chapter/greek-interactions/$Options Theory for Professional Trading
+21. Greek Calculator$https://zerodha.com/varsity/chapter/greek-calculator/$Options Theory for Professional Trading
+22. Re-introducing Call & Put Options$https://zerodha.com/varsity/chapter/re-introducing-call-put-options/$Options Theory for Professional Trading
+23. Case studies – wrapping it all up!$https://zerodha.com/varsity/chapter/case-studies-wrapping-it-all-up/$Options Theory for Professional Trading
+24. Quick note on Physical Settlement$https://zerodha.com/varsity/chapter/quick-note-on-physical-settlement-2/$Options Theory for Professional Trading
+1. Orientation$https://zerodha.com/varsity/chapter/orientation/$Option Strategies
+2. Bull Call Spread$https://zerodha.com/varsity/chapter/bull-call-spread/$Option Strategies
+3. Bull Put Spread$https://zerodha.com/varsity/chapter/bull-put-spread/$Option Strategies
+4. Call Ratio Back Spread$https://zerodha.com/varsity/chapter/call-ratio-back-spread/$Option Strategies
+5. Bear Call Ladder$https://zerodha.com/varsity/chapter/bear-call-ladder/$Option Strategies
+6. Synthetic Long & Arbitrage$https://zerodha.com/varsity/chapter/synthetic-long-arbitrage/$Option Strategies
+7. Bear Put Spread$https://zerodha.com/varsity/chapter/bear-put-spread/$Option Strategies
+8. Bear Call Spread$https://zerodha.com/varsity/chapter/bear-call-spread/$Option Strategies
+9. Put Ratio Back spread$https://zerodha.com/varsity/chapter/put-ratio-back-spread/$Option Strategies
+10. The Long Straddle$https://zerodha.com/varsity/chapter/the-long-straddle/$Option Strategies
+11. The Short Straddle$https://zerodha.com/varsity/chapter/the-short-straddle/$Option Strategies
+12. The Long & Short Strangle$https://zerodha.com/varsity/chapter/the-long-short-strangle/$Option Strategies
+13. Max Pain & PCR Ratio$https://zerodha.com/varsity/chapter/max-pain-pcr-ratio/$Option Strategies
+14. Iron Condor$https://zerodha.com/varsity/chapter/iron-condor/$Option Strategies
+1. Introduction (Setting the Context)$https://zerodha.com/varsity/chapter/introduction-setting-the-context/$Markets and Taxation
+2. Basics$https://zerodha.com/varsity/chapter/basics/$Markets and Taxation
+3. Classifying Your Market Activity$https://zerodha.com/varsity/chapter/classifying-your-market-activity/$Markets and Taxation
+4. Taxation for Investors$https://zerodha.com/varsity/chapter/taxation-for-investors/$Markets and Taxation
+5. Taxation for Traders$https://zerodha.com/varsity/chapter/taxation-for-traders/$Markets and Taxation
+6. Turnover, Balance Sheet, and P&L$https://zerodha.com/varsity/chapter/turnover-balance-sheet-and-pl/$Markets and Taxation
+7. ITR Forms (The Finale)$https://zerodha.com/varsity/chapter/itr-forms/$Markets and Taxation
+1. Currency Basics$https://zerodha.com/varsity/chapter/currency-basics/$Currency, Commodity, and Government Securities
+2. Reference Rates & Impact of events$https://zerodha.com/varsity/chapter/reference-rates-impact-of-events/$Currency, Commodity, and Government Securities
+3. Impact of events (Brexit) & Interest Rate Parity$https://zerodha.com/varsity/chapter/impact-of-events-brexit-interest-rate-parity/$Currency, Commodity, and Government Securities
+4. The USD INR Pair (Part 1)$https://zerodha.com/varsity/chapter/the-usd-inr-pair/$Currency, Commodity, and Government Securities
+5. The USD INR Pair (Part 2)$https://zerodha.com/varsity/chapter/the-usd-inr-pair-part-2/$Currency, Commodity, and Government Securities
+6. EUR, GBP, and JPY$https://zerodha.com/varsity/chapter/eur-gbp-and-jpy/$Currency, Commodity, and Government Securities
+7. Gold (Part 1)$https://zerodha.com/varsity/chapter/gold-part-1/$Currency, Commodity, and Government Securities
+8. Gold (Part 2)$https://zerodha.com/varsity/chapter/gold-part-2/$Currency, Commodity, and Government Securities
+9. Silver$https://zerodha.com/varsity/chapter/silver/$Currency, Commodity, and Government Securities
+10. Crude Oil (Part 1), digging the past$https://zerodha.com/varsity/chapter/crude-oil-part-1-digging-the-past/$Currency, Commodity, and Government Securities
+11. Crude Oil (Part 2), the crude oil eco system$https://zerodha.com/varsity/chapter/crude-oil-part-2-the-crude-oil-eco-system/$Currency, Commodity, and Government Securities
+12. Crude Oil (Part 3), the crude oil contract$https://zerodha.com/varsity/chapter/crude-oil-part-3-the-crude-oil-contract/$Currency, Commodity, and Government Securities
+13. Copper & Aluminium$https://zerodha.com/varsity/chapter/copper-aluminium/$Currency, Commodity, and Government Securities
+14. Lead & Nickel$https://zerodha.com/varsity/chapter/lead-nickel/$Currency, Commodity, and Government Securities
+15. Cardamom & Mentha Oil$https://zerodha.com/varsity/chapter/cardamom-mentha-oil/$Currency, Commodity, and Government Securities
+16. Natural Gas$https://zerodha.com/varsity/chapter/natural-gas/$Currency, Commodity, and Government Securities
+17. Commodity Options$https://zerodha.com/varsity/chapter/commodity-options/$Currency, Commodity, and Government Securities
+18. Cross Currency Pairs$https://zerodha.com/varsity/chapter/cross-currency-pairs/$Currency, Commodity, and Government Securities
+19. Government Securities$https://zerodha.com/varsity/chapter/government-securities/$Currency, Commodity, and Government Securities
+1. Orientation note$https://zerodha.com/varsity/chapter/orientation-note/$Risk Management & Trading Psychology
+2. Risk (Part 1)$https://zerodha.com/varsity/chapter/risk-part-1/$Risk Management & Trading Psychology
+3. Risk (Part 2) – Variance & Covariance$https://zerodha.com/varsity/chapter/risk-part-2-variance-covariance/$Risk Management & Trading Psychology
+4. Risk (Part 3) – Variance & Covariance Matrix$https://zerodha.com/varsity/chapter/risk-part-3-_variance-covariance-matrix/$Risk Management & Trading Psychology
+5. Risk (Part 4) – Correlation Matrix & Portfolio Variance$https://zerodha.com/varsity/chapter/risk-part-4-correlation-matrix-portfolio-variance/$Risk Management & Trading Psychology
+6. Equity Curve$https://zerodha.com/varsity/chapter/equity-curve/$Risk Management & Trading Psychology
+7. Expected Returns$https://zerodha.com/varsity/chapter/expected-returns/$Risk Management & Trading Psychology
+8. Portfolio Optimization (Part 1)$https://zerodha.com/varsity/chapter/port-opt/$Risk Management & Trading Psychology
+9. Portfolio Optimization (Part 2)$https://zerodha.com/varsity/chapter/po2/$Risk Management & Trading Psychology
+10. Value at Risk$https://zerodha.com/varsity/chapter/var/$Risk Management & Trading Psychology
+11. Position Sizing for active trader$https://zerodha.com/varsity/chapter/position-sizing/$Risk Management & Trading Psychology
+12. Position Sizing for active traders (Part 2)$https://zerodha.com/varsity/chapter/position-sizing-active-traders-part-2/$Risk Management & Trading Psychology
+13. Position Sizing for active traders (Part 3)$https://zerodha.com/varsity/chapter/position-sizing-active-traders-part-3/$Risk Management & Trading Psychology
+14. Kelly’s Criterion$https://zerodha.com/varsity/chapter/kellys-criterion/$Risk Management & Trading Psychology
+15. Trading Biases$https://zerodha.com/varsity/chapter/trading-biases/$Risk Management & Trading Psychology
+16. Trading Biases (Part 2)$https://zerodha.com/varsity/chapter/tradingbiases-p2/$Risk Management & Trading Psychology
+1. What to expect?$https://zerodha.com/varsity/chapter/what-to-expect/$Trading Systems
+2. Pair Trading logic$https://zerodha.com/varsity/chapter/pair-trading-basics/$Trading Systems
+3. Pair Trading, Method 1, Chapter 1 (PTM1, C1) -Tracking Pairs$https://zerodha.com/varsity/chapter/tracking-pairs/$Trading Systems
+4. PTM1, C2 – Pair stats$https://zerodha.com/varsity/chapter/pair-stats/$Trading Systems
+5. PTM1, C3 – Pre trade setup$https://zerodha.com/varsity/chapter/pre-trade-setup/$Trading Systems
+6. PTM1, C4 – The Density Curve$https://zerodha.com/varsity/chapter/the-density-curve/$Trading Systems
+7. PTM1,C5 – The Pair Trade$https://zerodha.com/varsity/chapter/the-pair-trade/$Trading Systems
+8. Pair trade Method 2, Chapter 1 (PTM2, C1) – Straight line Equation$https://zerodha.com/varsity/chapter/straight-line-equation/$Trading Systems
+9. PTM2, C2 – Linear Regression$https://zerodha.com/varsity/chapter/linear-regression/$Trading Systems
+10. PTM2, C3 – The Error Ratio$https://zerodha.com/varsity/chapter/the-error-ratio/$Trading Systems
+11. PTM2, C4 – The ADF test$https://zerodha.com/varsity/chapter/the-adf-test/$Trading Systems
+12. Trade Identification$https://zerodha.com/varsity/chapter/trade-identification/$Trading Systems
+13. Live Example -1$https://zerodha.com/varsity/chapter/live-example/$Trading Systems
+14. Live Example – 2$https://zerodha.com/varsity/chapter/live-example-2/$Trading Systems
+15. Calendar Spreads$https://zerodha.com/varsity/chapter/calendar-spreads/$Trading Systems
+16. Momentum Portfolios$https://zerodha.com/varsity/chapter/momentum-portfolios/$Trading Systems
+1. Background and Orientation$https://zerodha.com/varsity/chapter/background-and-orientation/$Personal Finance (Part 1)
+2. Personal Finance Math (Part 1)$https://zerodha.com/varsity/chapter/personal-finance-math-part-1/$Personal Finance (Part 1)
+3. Personal Finance Math (Part 2)$https://zerodha.com/varsity/chapter/personal-finance-math-part-2/$Personal Finance (Part 1)
+4. The retirement problem (Part 1)$https://zerodha.com/varsity/chapter/the-retirement-problem-part-1/$Personal Finance (Part 1)
+5. The retirement problem (Part 2)$https://zerodha.com/varsity/chapter/the-retirement-problem-part-2/$Personal Finance (Part 1)
+6. Introduction to Mutual Funds$https://zerodha.com/varsity/chapter/introduction-to-mutual-funds/$Personal Finance (Part 1)
+7. Concept of fund & NAV$https://zerodha.com/varsity/chapter/concept-of-fund-nav/$Personal Finance (Part 1)
+8. The mutual fund fact-sheet$https://zerodha.com/varsity/chapter/the-mutual-fund-fact-sheet/$Personal Finance (Part 1)
+9. The Equity scheme (Part 1)$https://zerodha.com/varsity/chapter/the-equity-scheme-part-1/$Personal Finance (Part 1)
+10. Equity Scheme (Part 2)$https://zerodha.com/varsity/chapter/equity-scheme-part-2/$Personal Finance (Part 1)
+11. The Debt funds (Part 1)$https://zerodha.com/varsity/chapter/the-debt-funds-part-1/$Personal Finance (Part 1)
+12. The Debt funds (Part 2)$https://zerodha.com/varsity/chapter/the-debt-funds-part-2/$Personal Finance (Part 1)
+13. The Debt funds (Part 3)$https://zerodha.com/varsity/chapter/the-debt-funds-part-3/$Personal Finance (Part 1)
+14. The Debt Funds (Part 4)$https://zerodha.com/varsity/chapter/the-debt-funds-part-4/$Personal Finance (Part 1)
+15. Investing in Bonds$https://zerodha.com/varsity/chapter/investing-in-bonds/$Personal Finance (Part 1)
+16. Index Funds$https://zerodha.com/varsity/chapter/introduction-to-index-funds/$Personal Finance (Part 1)
+17. Arbitrage Funds$https://zerodha.com/varsity/chapter/arbitrage-funds/$Personal Finance (Part 1)
+18. Measuring Mutual fund Returns$https://zerodha.com/varsity/chapter/measuring-mutual-fund-returns/$Personal Finance (Part 1)
+19. Rolling Returns$https://zerodha.com/varsity/chapter/rolling-returns/$Personal Finance (Part 1)
+20. Mutual fund Expense Ratio, Direct, and Regular plans$https://zerodha.com/varsity/chapter/mutual-fund-expense-ratio-direct-and-regular-plans/$Personal Finance (Part 1)
+21. Mutual Benchmarking$https://zerodha.com/varsity/chapter/mutual-benchmarking/$Personal Finance (Part 1)
+22. Mutual Fund Beta, SD, and Sharpe Ratio$https://zerodha.com/varsity/chapter/mutual-fund-risk-metrics/$Personal Finance (Part 1)
+23. Sortino and the Capture Ratios$https://zerodha.com/varsity/chapter/sortino-and-the-capture-ratios/$Personal Finance (Part 1)
+24. How to analyse an Equity Mutual fund?$https://zerodha.com/varsity/chapter/how-to-analyse-an-equity-mutual-fund/$Personal Finance (Part 1)
+25. How to analyze a debt mutual fund?$https://zerodha.com/varsity/chapter/how-to-analyze-a-debt-mutual-fund/$Personal Finance (Part 1)
+26. The Mutual Fund Portfolio$https://zerodha.com/varsity/chapter/the-mutual-fund-portfolio/$Personal Finance (Part 1)
+27. Smart-beta funds$https://zerodha.com/varsity/chapter/smart-beta-funds/$Personal Finance (Part 1)
+28. Asset Allocation, An Introduction$https://zerodha.com/varsity/chapter/asset-allocation-an-introduction/$Personal Finance (Part 1)
+29. Exchange-traded funds (ETF)$https://zerodha.com/varsity/chapter/exchange-traded-funds-etf/$Personal Finance (Part 1)
+30. Basics of Macro Economics$https://zerodha.com/varsity/chapter/basics-of-macro-economics/$Personal Finance (Part 1)
+1. Introduction to Stock Markets$https://zerodha.com/varsity/module/introduction-to-stock-markets/$Innerworth — Mind over markets
+2. Technical Analysis$https://zerodha.com/varsity/module/technical-analysis/$Innerworth — Mind over markets
+3. Fundamental Analysis$https://zerodha.com/varsity/module/fundamental-analysis/$Innerworth — Mind over markets
+4. Futures Trading$https://zerodha.com/varsity/module/futures-trading/$Innerworth — Mind over markets
+5. Options Theory for Professional Trading$https://zerodha.com/varsity/module/option-theory/$Innerworth — Mind over markets
+6. Option Strategies$https://zerodha.com/varsity/module/option-strategies/$Innerworth — Mind over markets
+7. Markets and Taxation$https://zerodha.com/varsity/module/markets-and-taxation/$Innerworth — Mind over markets
+8. Currency, Commodity, and Government Securities$https://zerodha.com/varsity/module/commodities-currency-government-securities/$Innerworth — Mind over markets
+9. Risk Management & Trading Psychology$https://zerodha.com/varsity/module/risk-management/$Innerworth — Mind over markets
+10. Trading Systems$https://zerodha.com/varsity/module/trading-systems/$Innerworth — Mind over markets
+11. Personal Finance (Part 1)$https://zerodha.com/varsity/module/personalfinance/$Innerworth — Mind over markets
+12. Innerworth — Mind over markets$https://zerodha.com/varsity/module/innerworth/$Innerworth — Mind over markets
+13. Integrated Financial Modelling$https://zerodha.com/varsity/module/financial-modelling/$Innerworth — Mind over markets
+1. Introduction to Financial Modelling$https://zerodha.com/varsity/chapter/introduction-to-financial-modelling/$Integrated Financial Modelling
+2. Excel workbook setup$https://zerodha.com/varsity/chapter/excel-workbook-setup/$Integrated Financial Modelling
+3. Historical Data$https://zerodha.com/varsity/chapter/historical-data/$Integrated Financial Modelling
